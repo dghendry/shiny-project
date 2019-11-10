@@ -1,0 +1,31 @@
+# filename: debug_functions.R
+#----------------------------------------------
+# Simple tools for code comprehension and debugging
+#----------------------------------------------
+
+#----------------------------------------------
+# Set this to TRUE to show show debug messages
+#----------------------------------------------
+debug_on = TRUE
+
+#----------------------------------------------
+# This will remove all variables from the environment
+# so, in general, source this file FIRST
+#----------------------------------------------
+if (debug_on) {
+  rm(list=ls())
+  debug_on = TRUE
+}
+
+#----------------------------------------------
+# The ... allows us to pass any number of parameters
+# into this function. We just paste them together 
+# and print them. This can be suprisingly useful.
+#----------------------------------------------
+debug_msg <- function(...) {
+  if (debug_on) {
+    arguments <- list(...)
+    msg <- paste(...)
+    print(msg)
+  }
+}

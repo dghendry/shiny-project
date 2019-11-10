@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573338598426.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3516657941",
+    "id" : "3FFD09CF",
+    "lastKnownWriteTime" : 1573349327,
+    "last_content_update" : 1573349327684,
+    "path" : "~/Documents/__INFO-201/12code/shiny/basic_for_code_review/app_test_1.R",
+    "project_path" : "app_test_1.R",
+    "properties" : {
+        "cursorPosition" : "46,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

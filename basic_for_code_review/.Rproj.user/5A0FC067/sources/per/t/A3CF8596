@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573347339096.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3423692151",
+    "id" : "A3CF8596",
+    "lastKnownWriteTime" : 1573350295,
+    "last_content_update" : 1573350295688,
+    "path" : "~/Documents/__INFO-201/12code/shiny/basic_for_code_review/Source/debug_functions.R",
+    "project_path" : "Source/debug_functions.R",
+    "properties" : {
+        "cursorPosition" : "7,36",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

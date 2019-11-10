@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573350827353.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3516657941",
+    "id" : "54CB9F2D",
+    "lastKnownWriteTime" : 1573350827,
+    "last_content_update" : 1573350827,
+    "path" : "~/Documents/__INFO-201/12code/shiny/nytimes/app.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "6,30",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

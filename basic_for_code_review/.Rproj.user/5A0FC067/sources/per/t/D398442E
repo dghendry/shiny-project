@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573419742333.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4189665498",
+    "id" : "D398442E",
+    "lastKnownWriteTime" : 1573332332,
+    "last_content_update" : 1573332332,
+    "path" : "~/Documents/__INFO-201/12code/shiny/basic_for_code_review/key_ideas.R",
+    "project_path" : "key_ideas.R",
+    "properties" : {
+        "cursorPosition" : "10,47",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

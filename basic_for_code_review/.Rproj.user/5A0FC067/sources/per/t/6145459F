@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573419790890.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2942986036",
+    "id" : "6145459F",
+    "lastKnownWriteTime" : 1573331769,
+    "last_content_update" : 1573331769,
+    "path" : "~/Documents/__INFO-201/12code/shiny/basic_for_code_review/slider_test.R",
+    "project_path" : "slider_test.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "6",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
