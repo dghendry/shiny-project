@@ -126,7 +126,7 @@ ui <- fluidPage(
                  ),
              h3("GitHub Repository"), 
              tags$pre(tags$a(href="https://github.com/dghendry/shiny-project", "https://github.com/dghendry/shiny-project")),
-             h3("The R Source Code"),
+             h3("Source Code"),
              verbatimTextOutput("about_code")
              )
   )

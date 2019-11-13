@@ -2,7 +2,7 @@
 .DS_Store
 
 # Ignore API key
-nytimes_api_key.R
+# nytimes_api_key.R
 
 .Rproj.user
 .Rhistory
